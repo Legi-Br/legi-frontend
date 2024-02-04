@@ -1,8 +1,9 @@
 {
-  "name": "mantis-free-react-admin-template",
+  "name": "legi-frontend",
   "version": "1.1.2",
   "private": true,
-  "homepage": "https://mantisdashboard.io/free",
+  "author": "Caio Manduca <caiomanducas@gmail.com>",
+  "repository": "git@github.com:Legi-Br/legi-frontend.git",
   "dependencies": {
     "@ant-design/colors": "^6.0.0",
     "@ant-design/icons": "^4.7.0",
